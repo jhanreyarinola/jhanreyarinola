@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I am Jhan Rey Ariñola]
+**Name:** Jhan Rey M. Ariñola  
+**Education:** 2nd-year BSIT, New Era University  
+**Certifications:**  
+- SQL and Relational Databases 101 — [Certificate link here](PASTE_CERT_LINK_HERE)  
 
-<!--
-**jhanreyarinola/jhanreyarinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skillsets:**  
+- HTML  
+- CSS  
+- JavaScript  
+- Adobe Photoshop  
+- Canva  
+- PowerDirector  
+- CapCut  
+- Soft skills: Teamwork, Communication, Problem Solving
 
-Here are some ideas to get you started:
+**Contact:**  
+- Email: arinolajhanrey@gmail.com  
+- Phone: 09467392181
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
