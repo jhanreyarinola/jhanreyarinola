@@ -1,4 +1,4 @@
-# Hi, I am Jhan Rey Ariñola]
+# Hi, I am Jhan Rey Ariñola
 **Name:** Jhan Rey M. Ariñola  
 **Education:** 2nd-year BSIT, New Era University  
 **Certifications:**  
