@@ -8,10 +8,8 @@
 - HTML  
 - CSS  
 - JavaScript  
-- Adobe Photoshop  
-- Canva  
-- PowerDirector  
-- CapCut  
+- CapCut
+- UI\UX Design
 - Soft skills: Teamwork, Communication, Problem Solving
 
 **Contact:**  
